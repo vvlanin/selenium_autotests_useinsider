@@ -9,8 +9,7 @@ Test task for QA Engineer position
 ```bash
 pip install -r requirements.txt
 ```
-2. Install chromedri
-3. Run tests
+2. Run tests
 ```bash
 pytest
 ```
